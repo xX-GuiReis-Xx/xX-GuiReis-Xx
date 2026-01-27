@@ -8,10 +8,14 @@
 -------
 
 💀 Olá, me chamo Guilherme !
-📚 Sou estudante de Engenharia de Software e estou em uma tante evolução.
 
-🌐
-👽
+📚 Sou estudante de Engenharia de Software, e estou sempre em uma constante evolução...
+
+🌐 Um futuro fluente em inglês..
+
+[
+
+
 
 
  
