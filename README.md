@@ -9,6 +9,16 @@
 ##### Titulo 5
 ###### Titulo 6
 
+*italico* ou _italico_
+
+**negrito** ou __negrito__
+
+- Lista 1
+- Lista 2
+   - Sublista
+ 
+
+
 
 **xX-GuiReis-Xx/xX-GuiReis-Xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
