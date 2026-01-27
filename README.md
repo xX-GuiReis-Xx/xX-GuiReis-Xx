@@ -1,10 +1,13 @@
 
 
-<center><h2>👾Sejam bem vindo ao meu mundo !👾</h2></center>
+<center><h2>Sejam bem vindo ao meu mundo !</h2></center>
  
 
 
 ![Mundo da rogramação](https://microlinsf1.com.br/wp-content/uploads/2024/02/post-logicadeprogramacao-1.webp)
+-------
+
+💀 Hello, my name is Guilherme !
 
 
  
