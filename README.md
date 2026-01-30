@@ -29,7 +29,9 @@
 |Formação Blip logica de programação | [Certificado](https://hermes.dio.me/certificates/KOLXFQZ2.pdf)
 ---
 
-![GuiReis GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
 
 
