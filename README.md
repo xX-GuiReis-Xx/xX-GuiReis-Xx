@@ -17,9 +17,10 @@
 -------
 
 **Minhas tecnologias:**
-
+<p align="center"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50px">
 <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px">
+</p>
 
 -----
 
