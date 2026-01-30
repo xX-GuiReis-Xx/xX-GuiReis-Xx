@@ -7,14 +7,16 @@
 ![Mundo da rogramação](https://microlinsf1.com.br/wp-content/uploads/2024/02/post-logicadeprogramacao-1.webp)
 -------
 
-💀 Olá, me chamo Guilherme !
+👽 Olá, me chamo Guilherme !
 
-📚 Sou estudante de Engenharia de Software, e estou sempre em uma constante evolução...
+📚 Sou estudante de Engenharia de Software, e amante da tecnologia.
+
+📈 Vivendo em uma constante evolução.
 
 🌐 Um futuro fluente em inglês..
 
 📊 [Acesse meu linkedin](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin%20entrar_d.c_tid.kwd-335752249348_n.g_mt.e_geo.9047832)
--------
+------
 
 **Minhas tecnologias:**
 
@@ -31,6 +33,8 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
 
 
