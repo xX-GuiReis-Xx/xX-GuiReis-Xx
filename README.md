@@ -1,19 +1,16 @@
 
 
-<center><h2>Sejam bem vindo ao meu mundo !</h2></center>
+<center><h2>Este é um desenvolvedor em formação. </h2></center>
  
 
 
 ![Mundo da rogramação](https://microlinsf1.com.br/wp-content/uploads/2024/02/post-logicadeprogramacao-1.webp)
 -------
 
-👽 Olá, me chamo Guilherme !
+Olá! Eu sou Guilherme Reis 👋
+Estudante de Engenharia de Software e desenvolvedor em formação, atualmente focado em JavaScript, HTML e CSS.
 
-📚 Sou estudante de Engenharia de Software, e amante da tecnologia.
-
-📈 Vivendo em uma constante evolução.
-
-🌐 Um futuro fluente em inglês..
+Utilizo este espaço para documentar minha evolução, desenvolver projetos e colocar em prática os conhecimentos adquiridos durante minha graduação e cursos complementares.
 
 📊 [Acesse meu linkedin](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin%20entrar_d.c_tid.kwd-335752249348_n.g_mt.e_geo.9047832)
 ------
